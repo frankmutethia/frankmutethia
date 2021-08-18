@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning WordPress
 - 👯 I’m looking to collaborate on any Android Flutter Projects
 - 💬 Ask me about any flutter related work.
-- 📫 How to reach me: Email:frankmutethia81@gmail.com and LinkedIn: www.linkedin.com/in/frank-mutethia
+- 📫 How to reach me: Email: frankmutethia81@gmail.com and LinkedIn: www.linkedin.com/in/frank-mutethia
 - ⚡ Fun fact: A dollar might just make that lane switch.
