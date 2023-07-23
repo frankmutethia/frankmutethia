@@ -9,7 +9,7 @@
  -  *[LinkedIn](www.linkedin.com/in/frank-mutethia): www.linkedin.com/in/frank-mutethia*
 <!-- - ⚡ Fun fact: A dollar might just make that lane switch. -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankmutethia&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
