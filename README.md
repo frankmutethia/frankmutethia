@@ -1,6 +1,6 @@
    Hi there 👋 I am Frank Mutethia|An IT Engineer| 
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on React and TailWind CSS.
 - 🌱 I’m currently learning Flutter and Front-End frameworks.
 - 👍 I’m looking to collaborate on any Android Flutter Projects and web frontend development.
 - 💬 Ask me about any Flutter-related work and JavaScript.
