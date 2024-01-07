@@ -11,5 +11,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankmutethia&theme=blue-green&show_icons=true)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmutethia&layout=compact)
+
