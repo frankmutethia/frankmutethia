@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I am Frank a MERN stack software developer and anime fan.<br>I am currently working on an E-commerce website.<br>GraphQL is also a query language I am studying in depth.
+Hello there, I am Frank a MERN stack software developer and anime fan.<br>GraphQL is also a query language I am studying in depth.
 
 
 ## 🌐 Socials:
