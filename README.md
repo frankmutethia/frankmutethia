@@ -1,12 +1,67 @@
-# 💫 About Me:
-Hello there, I am Frank a full-stack software developer and anime fan.
+# Hi, I'm Frank Mutethia
 
+**AI consultant · Founder of [Tech Dojo](https://github.com/frankmutethia/techdojoai) · Nairobi, Kenya**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frank-mutethia?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUTPfpQEaS3KJJQqZ4M8cng%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@frankmutethia81) 
+I help creatives, students, professionals, and enterprises adopt AI with discipline — training the tools, designing agents, and shipping systems that hold up in production.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+```text
+dojo --init
+> loading neural.core ........ ok
+> mounting agents/ ............ ok
+> status: ready_to_train_
+```
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+
+- **Train** — Cohorts, workshops, and 1:1 programs across five AI disciplines
+- **Diagnose** — Workflow audits and opportunity mapping for teams
+- **Build** — Production agents, RAG systems, and enterprise integrations
+
+---
+
+## Featured project
+
+### [Tech Dojo](https://github.com/frankmutethia/techdojoai)
+
+Official site for my AI consultancy — TanStack Start, React 19, Tailwind, deployed on Cloudflare Workers.
+
+[![Tech Dojo repo](https://img.shields.io/github/stars/frankmutethia/techdojoai?style=social)](https://github.com/frankmutethia/techdojoai)
+
+---
+
+## Tech I work with
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**AI & automation:** LLMs · RAG · AI agents · prompt engineering · workflow automation
+
+---
+
+## GitHub activity
+
+I use **branches and pull requests** even on solo projects — issues for roadmap and bugs, PRs for reviewable, shippable changes.
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **Email** | [hello@techdojo.ai](mailto:hello@techdojo.ai) |
+| **Website** | [techdojo.ai](https://techdojo.ai) |
+| **GitHub** | [@frankmutethia](https://github.com/frankmutethia) |
+
+---
+
+<p align="center">
+  <i>道 · The Way of the Machine</i><br/>
+  <sub>Master The Future with AI</sub>
+</p>
