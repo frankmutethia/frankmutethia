@@ -2,6 +2,9 @@
 Hello there, I am Frank a full-stack software developer and anime fan.
 
 
+[![My GitFut card](https://gitfut.com/frankmutethia.png)](https://gitfut.com/frankmutethia)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frank-mutethia?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUTPfpQEaS3KJJQqZ4M8cng%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@frankmutethia81) 
 
